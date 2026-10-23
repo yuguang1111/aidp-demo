@@ -1,1 +1,7 @@
-lightgbm>=4.0.0
+torch 
+transformers 
+peft 
+accelerate 
+datasets 
+evaluate 
+pandas
