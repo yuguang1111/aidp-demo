@@ -12,28 +12,28 @@
     {
       "epoch": 1.0,
       "eval_accuracy": 0.0,
-      "eval_loss": 1.328125,
-      "eval_runtime": 0.0532,
-      "eval_samples_per_second": 18.811,
-      "eval_steps_per_second": 18.811,
+      "eval_loss": 1.015625,
+      "eval_runtime": 0.0491,
+      "eval_samples_per_second": 20.362,
+      "eval_steps_per_second": 20.362,
       "step": 1
     },
     {
       "epoch": 2.0,
       "eval_accuracy": 0.0,
-      "eval_loss": 1.59375,
-      "eval_runtime": 0.0502,
-      "eval_samples_per_second": 19.936,
-      "eval_steps_per_second": 19.936,
+      "eval_loss": 1.5546875,
+      "eval_runtime": 0.0471,
+      "eval_samples_per_second": 21.231,
+      "eval_steps_per_second": 21.231,
       "step": 2
     },
     {
       "epoch": 3.0,
       "eval_accuracy": 0.0,
-      "eval_loss": 1.4453125,
-      "eval_runtime": 0.0502,
-      "eval_samples_per_second": 19.907,
-      "eval_steps_per_second": 19.907,
+      "eval_loss": 1.609375,
+      "eval_runtime": 0.046,
+      "eval_samples_per_second": 21.75,
+      "eval_steps_per_second": 21.75,
       "step": 3
     }
   ],

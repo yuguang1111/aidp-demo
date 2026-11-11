@@ -24,8 +24,6 @@
   "megatron_core": "megatron.core",
   "modules_to_save": [
     "classifier",
-    "score",
-    "classifier",
     "score"
   ],
   "peft_type": "LORA",
@@ -35,8 +33,8 @@
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
-    "q_proj",
-    "v_proj"
+    "v_proj",
+    "q_proj"
   ],
   "target_parameters": null,
   "task_type": "SEQ_CLS",
