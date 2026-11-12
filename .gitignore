@@ -1,2 +1,7 @@
 *.safetensors
 *.safetensors
+ml-poc/rerank_fine_tuning/web_reranker_4k_checkpoints/
+checkpoint-*/
+*.pt
+*.safetensors
+*.bin
